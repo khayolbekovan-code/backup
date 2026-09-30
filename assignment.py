@@ -7,4 +7,4 @@ print(len(drinks)) #prints the length
 # Your answer: prints Coffee and Python counts from 0, so this is the second item "coffee"
 
 # 2. What are the Python types of drinks and chosen_drink?
-# Your answer: 3 beacuse len(drinks) counts the items in the list, and there are 3. 
+# Your answer:drinks is a list and chosen_drink is a string (str).
